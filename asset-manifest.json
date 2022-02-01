@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/animecar/static/css/main.01220a75.css",
+    "main.css": "/animecar/static/css/main.3288df9e.css",
     "main.js": "/animecar/static/js/main.a0906c42.js",
     "static/media/VarinonormalRegular-1GXaM.ttf": "/animecar/static/media/VarinonormalRegular-1GXaM.16472b6a600eb32f3b51.ttf",
     "index.html": "/animecar/index.html",
-    "main.01220a75.css.map": "/animecar/static/css/main.01220a75.css.map",
+    "main.3288df9e.css.map": "/animecar/static/css/main.3288df9e.css.map",
     "main.a0906c42.js.map": "/animecar/static/js/main.a0906c42.js.map"
   },
   "entrypoints": [
-    "static/css/main.01220a75.css",
+    "static/css/main.3288df9e.css",
     "static/js/main.a0906c42.js"
   ]
 }
