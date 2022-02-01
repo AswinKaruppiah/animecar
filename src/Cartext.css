@@ -47,8 +47,8 @@ body {
   .n1 {
     font-size: 5rem;
   }
+
   .hold {
-    position: absolute;
-    bottom: 0;
+    margin-top: 200px;
   }
 } ;
