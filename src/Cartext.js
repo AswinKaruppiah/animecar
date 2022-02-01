@@ -16,7 +16,7 @@ function Car() {
             TESLA
           </tspan>
           <tspan x="50%" dy="1.2em">
-            CYPER TRUCK
+            CYBER TRUCK
           </tspan>
         </text>
       </svg>

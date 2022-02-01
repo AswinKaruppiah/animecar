@@ -42,3 +42,13 @@ body {
     fill: #f7f7f7;
   }
 }
+
+@media (max-width: 1382px) {
+  .n1 {
+    font-size: 5rem;
+  }
+  .hold {
+    position: absolute;
+    bottom: 0;
+  }
+} ;
