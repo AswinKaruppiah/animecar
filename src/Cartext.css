@@ -1,0 +1,44 @@
+body {
+  font-family: "myfont";
+  background-color: #191a19;
+}
+
+.n1 {
+  stroke: #ffffff;
+  stroke-width: 1px;
+  letter-spacing: 2px;
+  font-size: 50px;
+  animation: animate 3s linear, fill 0.5 ease forwards 5s;
+}
+
+@font-face {
+  font-family: myfont;
+  src: url(./VarinonormalRegular-1GXaM.ttf);
+}
+
+@-webkit-keyframes animate {
+  0% {
+    stroke-dasharray: 0 50%;
+  }
+  100% {
+    stroke-dasharray: 50% 0;
+  }
+}
+
+@keyframes animate {
+  0% {
+    stroke-dasharray: 0 50%;
+  }
+  100% {
+    stroke-dasharray: 50% 0;
+  }
+}
+
+@keyframes fill {
+  from {
+    fill: transparent;
+  }
+  to {
+    fill: #f7f7f7;
+  }
+}
