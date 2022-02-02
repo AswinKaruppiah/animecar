@@ -15,7 +15,7 @@ body {
 @keyframes v2 {
   0% {
     color: #f5f5f5;
-    opacity: 0;
+    opacity: 0.5;
   }
   5% {
     color: #f5f5f5;
@@ -27,7 +27,7 @@ body {
   }
   15% {
     color: #f5f5f5;
-    opacity: 0;
+    opacity: 0.5;
   }
 
   25% {
@@ -60,23 +60,33 @@ body {
   }
   60% {
     color: #f5f5f5;
-    opacity: 0;
+    opacity: 0.5;
   }
   70% {
+    color: #f5f5f5;
+    opacity: 1;
+  }
+  75% {
     color: #f5f5f5;
     opacity: 0.5;
   }
   80% {
     color: #f5f5f5;
-    opacity: 0;
+    opacity: 0.5;
   }
+  85% {
+    color: #f5f5f5;
+    opacity: 1;
+  }
+
   90% {
     color: #f5f5f5;
     opacity: 0.5;
   }
+
   95% {
     color: #f5f5f5;
-    opacity: 0;
+    opacity: 0.5;
   }
   100% {
     color: #f5f5f5;
