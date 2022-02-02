@@ -9,7 +9,7 @@ body {
   stroke-width: 1px;
   letter-spacing: 2px;
   font-size: 50px;
-  animation: animate 3s linear 1, v1 0.5 ease forwards 1s, v2 2s linear 0.3s;
+  animation: animate 3s linear 1, v1 0.5 ease forwards 1s, v2 2s linear 1s;
 }
 
 @keyframes v2 {
@@ -81,7 +81,7 @@ body {
 
   90% {
     color: #f5f5f5;
-    opacity: 0.5;
+    opacity: 1;
   }
 
   95% {
