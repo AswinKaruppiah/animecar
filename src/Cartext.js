@@ -11,6 +11,7 @@ function Car() {
           y="60%"
           fill="transparent"
           textAnchor="middle"
+          data-text="TESLA CYBER TRUCK"
         >
           <tspan fontSize={"3rem"} x="50%" dy="0.1em">
             TESLA
@@ -19,6 +20,12 @@ function Car() {
             CYBER TRUCK
           </tspan>
         </text>
+        <tspan className="n2" fontSize={"3rem"} x="50%" dy="0.1em">
+          TESLA
+        </tspan>
+        <tspan className="n3" x="50%" dy="1.2em">
+          CYBER TRUCK
+        </tspan>
       </svg>
     </div>
   );
