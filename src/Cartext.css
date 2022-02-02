@@ -9,7 +9,7 @@ body {
   stroke-width: 1px;
   letter-spacing: 2px;
   font-size: 50px;
-  animation: animate 3s linear 1, v1 0.5 ease forwards 1s, v2 2s linear 1s;
+  animation: animate 3s linear 1, v1 1 ease forwards 5s, v2 2s linear 1s;
 }
 
 @keyframes v2 {
