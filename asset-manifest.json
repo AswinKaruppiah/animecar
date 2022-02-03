@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/animecar/static/css/main.4cf92012.css",
-    "main.js": "/animecar/static/js/main.13df9f3e.js",
-    "static/media/VarinonormalRegular-1GXaM.ttf": "/animecar/static/media/VarinonormalRegular-1GXaM.16472b6a600eb32f3b51.ttf",
+    "main.css": "/animecar/static/css/main.62f4d484.css",
+    "main.js": "/animecar/static/js/main.94b22625.js",
+    "static/media/juli-kosolapova-Us_dv71f1bc-unsplash.jpg": "/animecar/static/media/juli-kosolapova-Us_dv71f1bc-unsplash.b955bca55b3bd6ac2d93.jpg",
+    "static/media/Removal-54.png": "/animecar/static/media/Removal-54.c912e14dbbc7b556d08c.png",
+    "static/media/PngItem_4821530.png": "/animecar/static/media/PngItem_4821530.7e0dd04a7938cc6ff78d.png",
+    "static/media/TempestApacheExpandedItalic-AV1D.otf": "/animecar/static/media/TempestApacheExpandedItalic-AV1D.3f8d3e557303054ec9a6.otf",
     "index.html": "/animecar/index.html",
-    "main.4cf92012.css.map": "/animecar/static/css/main.4cf92012.css.map",
-    "main.13df9f3e.js.map": "/animecar/static/js/main.13df9f3e.js.map"
+    "main.62f4d484.css.map": "/animecar/static/css/main.62f4d484.css.map",
+    "main.94b22625.js.map": "/animecar/static/js/main.94b22625.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cf92012.css",
-    "static/js/main.13df9f3e.js"
+    "static/css/main.62f4d484.css",
+    "static/js/main.94b22625.js"
   ]
 }
