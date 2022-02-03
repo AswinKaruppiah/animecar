@@ -13,19 +13,13 @@ function Car() {
           textAnchor="middle"
           data-text="TESLA CYBER TRUCK"
         >
-          <tspan fontSize={"3rem"} x="50%" dy="0.1em">
+          <tspan fontSize={"1rem"} x="50%" dy="0.1em">
             TESLA
           </tspan>
-          <tspan x="50%" dy="1.2em">
-            CYBER TRUCK
+          <tspan fontSize={"2rem"} x="50%" dy="1.2em">
+            CYBERTRUCK
           </tspan>
         </text>
-        <tspan className="n2" fontSize={"3rem"} x="50%" dy="0.1em">
-          TESLA
-        </tspan>
-        <tspan className="n3" x="50%" dy="1.2em">
-          CYBER TRUCK
-        </tspan>
       </svg>
     </div>
   );
